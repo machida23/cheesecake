@@ -1,3 +1,8 @@
+/*
+Author: Logan Machida
+Class: CS341
+*/
+
 eventHandler = function( event ) {
     /* do stuff */
 }
