@@ -15,7 +15,8 @@
     "jquerry": "^0.0.1-security",
     "jquery": "^3.6.0",
     "jsdom": "^19.0.0",
-    "morgan": "~1.9.1"
+    "morgan": "~1.9.1",
+    "querry": "^0.1.2"
   },
   "devDependencies": {
     "jest": "^27.4.7"
